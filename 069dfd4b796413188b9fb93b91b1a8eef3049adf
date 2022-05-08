@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "41f88922_a84e3cc0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1404
+      },
+      "writtenOn": "2022-05-08T18:28:08Z",
+      "side": 1,
+      "message": "I can only CR+1, can you please check into it?",
+      "revId": "069dfd4b796413188b9fb93b91b1a8eef3049adf",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
