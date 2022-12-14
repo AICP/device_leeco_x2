@@ -1,9 +1,3 @@
-# Product
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.product=x2 \
-    ro.config.le_hardware_version=HW_1.0.0 \
-    ro.display.series="Le Max2"
-
 # Apical AD
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.qcom.ad.calib.data=/vendor/etc/ad_calib_x2.cfg
